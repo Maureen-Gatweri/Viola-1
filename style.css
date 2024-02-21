@@ -1,0 +1,10 @@
+#container{
+    border: dotted yellow;
+    padding: 40px;
+}
+
+.bucket{
+    border: solid 1px blue ;
+    padding: 20px;
+    margin: 5px
+}
